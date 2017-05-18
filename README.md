@@ -13,4 +13,4 @@ Program asks for name of input XML file, reads and analyses it - producing gener
 # License
 JPK_VAT is licensed under the [GNU AGPLv3](https://choosealicense.com/licenses/agpl-3.0/) license.
 # Copyright
-© 2017 [PLURIX](http://plurix.com.pl), K-ce
+© 2017 [PLURIX](http://plurix.com.pl/e-dokumenty.php), K-ce
