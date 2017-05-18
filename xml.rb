@@ -3,17 +3,17 @@
 # 
 # All rights reserved. This program and the accompanying materials
 # is free software; you can redistribute it and/or
-# modify it under the terms of the GNU General Public License version 2,
+# modify it under the terms of the GNU Affero General Public License version 3.0,
 # which accompanies this distribution, and is available at
-# http://www.eclipse.org/legal/epl-v10.html
-# as published by the Free Software Foundation.
+# https://choosealicense.com/licenses/agpl-3.0/
+# as published by the GitHub.
 # 
 # This program is distributed in the hope that it will be
 # useful, but WITHOUT ANY WARRANTY; without even the implied
 # warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR
 # PURPOSE. See the GNU General Public License for more details.
 # 
-# You should have received a copy of the GNU General Public
+# You should have received a copy of the GNU Affero General Public
 # License along with this program; if not, write to the Free
 # Software Foundation, Inc., 59 Temple Place, Suite 330,
 # Boston, MA 02111-1307 USA.
